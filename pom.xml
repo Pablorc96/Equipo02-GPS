@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.uclm</groupId>
 	<artifactId>gps</artifactId>
-	<name>Equipo02-GPS</name>
+	<appName>Equipo02-GPS</appName>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
