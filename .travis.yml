@@ -1,1 +1,10 @@
 language: java
+
+jdk:
+  oraclejdk8
+script:
+  ant -buildfile Equipo02-GPS/build.xml
+branches:
+  only:
+  - gh-pages
+  - /.*/
