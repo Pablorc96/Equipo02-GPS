@@ -1,3 +1,3 @@
 # Equipo02-GPS
 
-Buildeando
+Este repositorio compila tanto en travis como en heroku
